@@ -1,3 +1,3 @@
-# hi there i'm noelle
+# hi there it's noe
 
-i like mecha stuff
+it doesn't use this much anymore. find it on https://codeberg.org/noe
